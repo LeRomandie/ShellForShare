@@ -26,6 +26,6 @@ On va trouver tous les fichiers présents dans mon ordinateur
 
 
 ## Résultat final
-``console
+```console
 foo@bar:~$ find /Users/ddelalle/ -name '*.mp3' > liste_des_fichiers.txt
 ```
