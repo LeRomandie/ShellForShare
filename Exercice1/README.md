@@ -12,7 +12,7 @@ On va trouver tous les fichiers présents dans mon ordinateur
 - Apprendre a créer un fichier/un dossier
   - Les commandes cat et mkdir 
 - Apprendre a supprimer un fichier/un dossier
-  1. La commande rm
+  - La commande rm
 - Apprendre a écrire dans un fichier
   - Encore la commande cat, mais pas que
 
