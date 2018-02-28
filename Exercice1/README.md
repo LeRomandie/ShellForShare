@@ -2,19 +2,19 @@
 On va trouver tous les fichiers présents dans mon ordinateur
 
 ## Que va t'on faire
-1. Apprendre à se deplacer dans l'ordinateur 
-  * La commande 'cd'
-2. Apprendre a obtenir des informations sur les fichiers
-  * La commande ls
-3. Apprendre a trouver un fichier
-  * La commande find
-  * Les expressions régulières
-4. Apprendre a créer un fichier/un dossier
-  * Les commandes cat et mkdir 
-5. Apprendre a supprimer un fichier/un dossier
-  * La commande rm
-6. Apprendre a écrire dans un fichier
-  * Encore la commande cat, mais pas que
+- Apprendre à se deplacer dans l'ordinateur 
+  - La commande 'cd'
+- Apprendre a obtenir des informations sur les fichiers
+  - La commande ls
+- Apprendre a trouver un fichier
+  - La commande find
+  - Les expressions régulières
+- Apprendre a créer un fichier/un dossier
+  - Les commandes cat et mkdir 
+- Apprendre a supprimer un fichier/un dossier
+  1. La commande rm
+- Apprendre a écrire dans un fichier
+  - Encore la commande cat, mais pas que
 
 
 ## 1 Apprendre à se deplacer dans l'ordinateur 
