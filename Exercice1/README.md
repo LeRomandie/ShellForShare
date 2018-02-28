@@ -18,6 +18,22 @@ On va trouver tous les fichiers présents dans mon ordinateur
 
 
 ## 1 Apprendre à se deplacer dans l'ordinateur 
+aller sur mon Bureau :
+```console
+foo@bar:~$ cd Desktop
+```
+Maintenant aller dans un repertoire
+```console
+foo@bar:~$ cd NomDeMonRepertoire
+```
+Revenir en arrière
+```console
+foo@bar:~$ cd ..
+```
+Revenir a la racine
+```console
+foo@bar:~$ cd
+```
 ## 2 Apprendre a obtenir des informations sur les fichiers
 ## 3 Apprendre a trouver un fichier
 ## 4 Apprendre a créer un fichier/un dossier
