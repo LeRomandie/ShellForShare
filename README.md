@@ -1,5 +1,5 @@
 # ShellForShare
-Sharing of files
+
 
 ## Problème
 J’aimerais trouver tous les fichiers de musiques présents dans mon ordinateur et les envoyer a mes amis.
