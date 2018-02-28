@@ -1,4 +1,4 @@
-*# ShellForShare
+# ShellForShare
 Sharing of files
 
 ## Problème
